@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1R0Dub8AwulKCj84MZINT6UoojaaW2bmjoxztUJkjo74/edit?pli=1&tab=t.0
 # Система учета клиентов такси (Taxi Accounting System)
 
 ## Описание проекта
